@@ -31,7 +31,7 @@ Some example images for testing your pipeline on single frames are located in th
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
+### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
 ---
 ### README
